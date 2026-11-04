@@ -87,8 +87,8 @@ pipeline {
                 withSonarQubeEnv("SonerQubeServer"){
                     sh """
                         ${SONAR_HOME}/bin/sonar-scanner \
-                          -Dsonar.projectKey=hrview \
-                          -Dsonar.projectName=hrview \
+                          -Dsonar.projectKey=hrview_web \
+                          -Dsonar.projectName=hrview_web \
                           -Dsonar.sources=. \
                           -Dsonar.sourceEncoding=UTF-8
                     """
