@@ -1,6 +1,6 @@
 'use client'
 import { Sidebar, SidebarMenuItem, SidebarMenuButton, SidebarHeader, SidebarMenu, SidebarContent, useSidebar, SidebarMenuSub, SidebarMenuSubItem, SidebarMenuSubButton } from '@/components/ui/sidebar'
-import { ArrowLeftRight, ChevronLeft, ChevronRight, ClipboardCheck, Clock, Home, } from 'lucide-react'
+import { ChevronLeft, ChevronRight } from 'lucide-react'
 import React from 'react'
 import Link from 'next/link'
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'

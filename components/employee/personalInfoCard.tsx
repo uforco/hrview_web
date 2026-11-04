@@ -7,7 +7,6 @@ import {
     Mail,
     MapPin,
     Mars,
-    Moon,
     User,
     Venus,
     VenusAndMars,
