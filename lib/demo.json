@@ -1,0 +1,49 @@
+{
+  "personalInfo": {
+    "id": 15689,
+    "name": "Mizanur Rahman",
+    "designation": "Front-End Developer",
+    "employmentStatus": "Permanent",
+    "gender": "Male",
+    "religion": "Islam",
+    "joiningDate": "2025-04-13",
+    "confirmationDate": "2025-07-16",
+    "lengthOfService": "1 years 6 months",
+    "email": "mizanur.dev57@gmail.com",
+    "presentAddress": "Mohakhali Dokkhin Para, Gulshan, Dhaka, Dhaka, Bangladesh",
+    "permanentAddress": "Bongaon Noya Para, Jhinaigati, Sherpur, Mymensingh, Bangladesh"
+  },
+  "attendance": {
+    "status": "Present",
+    "dutyStart": "08:00 AM",
+    "dutyEnd": "05:00 PM",
+    "officeName": "Bdcalling",
+    "officeAddress": "14 Daisy Garden, Banasree Main Rd, Dhaka 1219"
+  },
+  "leaveBalance": [
+    {
+      "title": "Casual Leave",
+      "left": 3.5,
+      "used": 6.5,
+      "total": 10
+    },
+    {
+      "title": "Sick Leave",
+      "left": 13,
+      "used": 1,
+      "total": 14
+    },
+    {
+      "title": "Earn Leave",
+      "left": 21,
+      "used": 0,
+      "total": 21
+    },
+    {
+      "title": "Leave Without Pay",
+      "left": 365,
+      "used": 0,
+      "total": 365
+    }
+  ]
+}
