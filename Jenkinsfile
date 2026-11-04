@@ -17,7 +17,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 script {
-                    gitclone("devops", "https://github.com/uforco/hrview_web.git", "github_access") // frist param - branch name, 2nd param - git url, (3rd param public repo optinal / private repo requred with gitHub Access Credentials )
+                    gitclone("main", "https://github.com/uforco/hrview_web.git", "github_access") // frist param - branch name, 2nd param - git url, (3rd param public repo optinal / private repo requred with gitHub Access Credentials )
                 }
             }
         }
